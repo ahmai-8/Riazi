@@ -1,4 +1,5 @@
-﻿using System;
+//x^2 +2x-4
+using System;
 using System.Runtime.InteropServices;
 
 namespace project
